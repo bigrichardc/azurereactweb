@@ -8,8 +8,8 @@
 # testing
 /coverage
 
-# production
-/build
+# production - removing to work on azure
+# /build
 
 # misc
 .DS_Store
